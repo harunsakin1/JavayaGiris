@@ -1,4 +1,4 @@
-package com.haruns.Degiskenler;
+package com.haruns._00_Degiskenler;
 
 public class Main {
     public static void main(String[] args)
